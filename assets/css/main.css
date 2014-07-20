@@ -8,7 +8,7 @@ a:focus {
 }
 
 h1, h2 {
-    font-family: 'Roboto Condensed', verdana;
+    font-family: 'verdana', verdana;
     font-weight: 300;
     letter-spacing: -0.02em;
 }
@@ -35,7 +35,7 @@ pre, code, tt {font:0.95em 'consolas', Menlo, Monaco, 'lucida console', monospac
 li img { display: block; }
 
 blockquote {
-    font: 1.5em/1.6em 'Roboto Condensed', verdana;
+    font: 1.5em/1.6em 'verdana', verdana;
     margin-top: 10px;
     margin-bottom: 10px;
     margin-left: 50px;
