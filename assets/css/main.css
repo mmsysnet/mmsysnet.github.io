@@ -16,7 +16,7 @@ h1, h2 {
 pre, code, tt {font:0.95em 'consolas', Menlo, Monaco, 'lucida console', monospace;line-height:1.5;}
 
 :not(.highlight) > pre {
-    background-color: #000000;
+    background-color: #f8f8f8;
     border: 1px solid #ddd;
     font-size: 13px;
     line-height: 19px;
@@ -82,7 +82,7 @@ blockquote {
 }
 .brand-tagline {
     font-weight: 300;
-    color: #268bd2;
+    color: #000000;
 }
 
 .content {
