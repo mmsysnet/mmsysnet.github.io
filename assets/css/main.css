@@ -72,7 +72,7 @@ blockquote {
     margin: 0;
 }
 .brand-title {
-    text-transform: uppercase;
+  /* text-transform: uppercase; */
 }
 .brand-title a {
   color: #fff;
