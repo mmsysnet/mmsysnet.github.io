@@ -45,5 +45,3 @@ Next page, click on the <b>FramePkg</b> and save in your system.
 <a href="http://mmsysnet.files.wordpress.com/2013/04/image4.png"><img style="background-image: none; padding-left: 0; padding-right: 0; display: inline; padding-top: 0; border-width: 0;" title="image" src="http://mmsysnet.files.wordpress.com/2013/04/image_thumb4.png" alt="image" width="434" height="190" border="0" /></a>
 <div id="__tbSetup"></div>
 
-
-![](https://528dee25940c6567ca66c19c0f4de0048e296760.googledrive.com/host/0B_eZ_lamvEnUVlE3LUlOc1FpVlU/e20.jpg)
