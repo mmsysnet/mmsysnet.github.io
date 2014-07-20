@@ -35,7 +35,7 @@ pre, code, tt {font:0.95em 'consolas', Menlo, Monaco, 'lucida console', monospac
 li img { display: block; }
 
 blockquote {
-    font: 1.5em/1.6em 'gruppo', verdana;
+    font: 1.5em/1.6em 'verdana', verdana;
     margin-top: 10px;
     margin-bottom: 10px;
     margin-left: 50px;
