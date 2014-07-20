@@ -8,7 +8,7 @@ a:focus {
 }
 
 h1, h2 {
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Roboto Condensed', verdana;
     font-weight: 300;
     letter-spacing: -0.02em;
 }
@@ -35,7 +35,7 @@ pre, code, tt {font:0.95em 'consolas', Menlo, Monaco, 'lucida console', monospac
 li img { display: block; }
 
 blockquote {
-    font: 1.5em/1.6em 'Roboto Condensed', sans-serif;
+    font: 1.5em/1.6em 'Roboto Condensed', verdana;
     margin-top: 10px;
     margin-bottom: 10px;
     margin-left: 50px;
@@ -61,7 +61,7 @@ blockquote {
 }
 
 .header {
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Roboto Condensed', verdana;
     font-weight: 300;
     margin: 50% 2em 0;
     text-align: right;
@@ -104,13 +104,13 @@ blockquote {
 }
 
 .post-meta {
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Roboto Condensed', verdana;
     font-size: 90%;
     color: #ccc;
     margin: 0px 0px 30px 0px;
 }
 .post-content {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Open Sans', verdana;
     font-size: 14px;
     line-height: 1.6em;
 }
